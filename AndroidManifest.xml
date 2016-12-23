@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.adila.gitprojekt">
 <!-- Random Comments 2---->
-    <!--Random Commot--->
+    <!--Random Commot Adil--->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
