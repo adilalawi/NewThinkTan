@@ -3,7 +3,7 @@
     package="com.example.adila.gitprojekt">
 <!-- Random Comments 2---->
     <!--Random Commot Adil 3--->
-    <!-- Hotfix -->
+    <!-- Hotfix fix 19-->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
